@@ -17,3 +17,13 @@
 
 S = int(input("Сколько журавликов сделали дети: "))
 print(S//6, 4*(S//6), S//6)
+
+# Разбор ДЗ на семинаре:
+# count = int(input())
+
+# if count % 2 or (count // 2) % 2:
+#     print("The data is incorrect!")
+# else:
+#     k = count // 2
+#     p = s = k // 2
+#     print(p, k, s)

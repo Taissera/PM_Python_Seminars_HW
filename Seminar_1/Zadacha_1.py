@@ -20,3 +20,14 @@ while num != 0:
     num = num // 10
 print("Сумма цифр введённого числа: ")
 print(summ)
+
+
+# Разбор ДЗ на семинаре:
+# num = int(input())
+# num_sum = 0
+
+# while num:
+#     num_sum += num % 10
+#     num //= 10
+
+# print(num_sum)

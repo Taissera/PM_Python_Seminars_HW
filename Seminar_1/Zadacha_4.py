@@ -18,3 +18,18 @@ if k < m * n and (k % m == 0 or k % n == 0):
     print("yes") 
 else:
     print("no")
+
+
+# Разбор ДЗ на семинаре:
+# ---------Решение кого-то из студентов
+# n = int(input())
+# m = int(input())
+# k = int(input())
+# s = n *m    #долек в шоколадке
+# if s < k:
+#     print("нельзя совершить невозможное")
+# else:
+#     if (k // n == 0 or k // m == 0) and k != s:
+#         print("no")
+#     else:
+#         print("yes")
