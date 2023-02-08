@@ -13,3 +13,22 @@ while k < N:
         else:
             k = k * 2
             print(k)
+
+
+# Разбор ДЗ на семинаре:
+
+n = int(input())
+pow_two = 1
+
+while pow_two <= n:
+    print(pow_two, end=" ")
+    pow_two *= 2
+    
+    
+
+N = int(input("Введите значение числа N: "))
+k = 1
+while k <= N:
+    print(k)
+    k = k * 2
+            
